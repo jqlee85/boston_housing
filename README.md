@@ -1,3 +1,6 @@
+# Jesse Lee Machine Learning Project #1
+## Predicting Boston Housing Prices
+
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
